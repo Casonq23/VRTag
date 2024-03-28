@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/cason/Documents/Unreal Projects/VRTag/miniGolfVR/Content/VRTemplate/Maps/testMap2.umap",
+				"C:/Users/cason/Documents/Unreal Projects/VRTag/miniGolfVR/Content/VRTemplate/Blueprints/ourBPs/BP_Club.uasset",
+				"C:/Users/cason/Documents/Unreal Projects/VRTag/miniGolfVR/Content/VRTemplate/Blueprints/ourBPs/BP_Ball.uasset",
+				"C:/Users/cason/Documents/Unreal Projects/VRTag/miniGolfVR/Content/VRTemplate/Blueprints/ourBPs/BP_Hole.uasset",
 				"C:/Users/bamro/Documents/School_Stuff/VR class/vrClassGithubFolder/VRTag/miniGolfVR/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
 				"C:/Users/bamro/Documents/School_Stuff/VR class/vrClassGithubFolder/VRTag/miniGolfVR/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/bamro/Documents/School_Stuff/VR class/vrClassGithubFolder/VRTag/miniGolfVR/Content/VRTemplate/Maps/testMap.umap",
