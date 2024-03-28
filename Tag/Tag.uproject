@@ -5,18 +5,16 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "OpenXR",
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		},
+		{
+			"Name": "OculusVR",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win64",
-				"Linux",
-				"Android",
-				"HoloLens"
+				"Android"
 			]
-		},
-		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
