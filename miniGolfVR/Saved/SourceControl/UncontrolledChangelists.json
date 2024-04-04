@@ -5,9 +5,25 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/cason/Documents/Unreal Projects/VRTag/miniGolfVR/Content/VRTemplate/Blueprints/ourBPs/BP_Hole.uasset",
 				"C:/Users/cason/Documents/Unreal Projects/VRTag/miniGolfVR/Content/VRTemplate/Maps/testMap2.umap",
 				"C:/Users/cason/Documents/Unreal Projects/VRTag/miniGolfVR/Content/VRTemplate/Blueprints/ourBPs/BP_Ball.uasset"
+=======
+				"C:/Users/bamro/Documents/School_Stuff/VR class/vrClassGithubFolder/VRTag/miniGolfVR/Content/HoudiniEngine/Bake/HE_Rock_3_23_1_main_geo_7AA0AC6F.uasset",
+				"C:/Users/bamro/Documents/School_Stuff/VR class/vrClassGithubFolder/VRTag/miniGolfVR/Content/HoudiniEngine/Bake/HE_Rock_3_23_3_main_geo_7AA0AC6F.uasset",
+				"C:/Users/bamro/Documents/School_Stuff/VR class/vrClassGithubFolder/VRTag/miniGolfVR/Content/HoudiniEngine/Bake/HE_Rock_3_23_1_main_geo_7AA0AC6F_1.uasset",
+				"C:/Users/bamro/Documents/School_Stuff/VR class/vrClassGithubFolder/VRTag/miniGolfVR/Content/HoudiniEngine/Bake/HE_Rock_3_23_3_main_geo_7AA0AC6F_1.uasset",
+				"C:/Users/bamro/Documents/School_Stuff/VR class/vrClassGithubFolder/VRTag/miniGolfVR/Content/HoudiniEngine/Bake/HE_Rock_3_23_1_main_geo_7AA0AC6F_2.uasset",
+				"C:/Users/bamro/Documents/School_Stuff/VR class/vrClassGithubFolder/VRTag/miniGolfVR/Content/HoudiniEngine/Bake/HE_Rock_3_23_3_main_geo_7AA0AC6F_2.uasset",
+				"C:/Users/bamro/Documents/School_Stuff/VR class/vrClassGithubFolder/VRTag/miniGolfVR/Content/VRTemplate/Maps/testMap.umap",
+				"C:/Users/bamro/Documents/School_Stuff/VR class/vrClassGithubFolder/VRTag/miniGolfVR/Content/VRTemplate/Maps/_GENERATED/bamro/Box_4AAD7F2D.uasset",
+				"C:/Users/bamro/Documents/School_Stuff/VR class/vrClassGithubFolder/VRTag/miniGolfVR/Content/HoudiniEngine/Bake/HE_Rock_3_28_1_main_geo_7AA0AC6F.uasset",
+				"C:/Users/bamro/Documents/School_Stuff/VR class/vrClassGithubFolder/VRTag/miniGolfVR/Content/HoudiniEngine/Bake/HE_Rock_3_28_3_main_geo_7AA0AC6F.uasset",
+				"C:/Users/bamro/Documents/School_Stuff/VR class/vrClassGithubFolder/VRTag/miniGolfVR/Content/HoudiniEngine/Temp/HE_Rock/7AA0AC6F/HE_Rock_3_28_1_main_geo.uasset",
+				"C:/Users/bamro/Documents/School_Stuff/VR class/vrClassGithubFolder/VRTag/miniGolfVR/Content/HoudiniEngine/Temp/HE_Rock/7AA0AC6F/HE_Rock_3_28_3_main_geo.uasset",
+				"C:/Users/bamro/Documents/School_Stuff/VR class/vrClassGithubFolder/VRTag/miniGolfVR/Content/VRTemplate/Maps/_GENERATED/bamro/Box_809CFC38.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
