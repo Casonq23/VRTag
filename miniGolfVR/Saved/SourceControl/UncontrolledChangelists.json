@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/cason/Documents/Unreal Projects/VRTag/miniGolfVR/Content/VRTemplate/Blueprints/ourBPs/BP_tornado.uasset",
+				"C:/Users/cason/Documents/Unreal Projects/VRTag/miniGolfVR/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/cason/Documents/Unreal Projects/VRTag/miniGolfVR/Content/VRTemplate/Maps/testMap.umap",
+				"C:/Users/cason/Documents/Unreal Projects/VRTag/miniGolfVR/Content/VRTemplate/Maps/testMap2.umap",
+				"C:/Users/cason/Documents/Unreal Projects/VRTag/miniGolfVR/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/cason/Documents/Unreal Projects/VRTag/miniGolfVR/Content/VRTemplate/Blueprints/ourBPs/BP_Ball.uasset",
+				"C:/Users/cason/Documents/Unreal Projects/VRTag/miniGolfVR/Content/VRTemplate/Blueprints/ourBPs/BP_Club.uasset",
 				"C:/Users/bamro/Documents/School_Stuff/VR class/vrClassGithubFolder/VRTag/miniGolfVR/Content/VRTemplate/Maps/_GENERATED/bamro/Box_CFC9A926.uasset",
 				"C:/Users/bamro/Documents/School_Stuff/VR class/vrClassGithubFolder/VRTag/miniGolfVR/Content/HoudiniEngine/Bake/HE_Rock_3_33_1_main_geo_7AA0AC6F.uasset",
 				"C:/Users/bamro/Documents/School_Stuff/VR class/vrClassGithubFolder/VRTag/miniGolfVR/Content/HoudiniEngine/Bake/HE_Rock_3_33_3_main_geo_7AA0AC6F.uasset",
