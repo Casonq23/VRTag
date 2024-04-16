@@ -6,5 +6,3 @@ Plugins\Runtime\GooglePAD\Source\GooglePAD\GooglePAD_APL.xml
 Source\Runtime\Online\Voice\AndroidVoiceImpl_UPL.xml
 Source\ThirdParty\Oculus\OculusOpenXRLoader\OculusOpenXRLoader/OculusOpenXRLoader_APL.xml
 Source\ThirdParty\GoogleGameSDK\GoogleGameSDK_APL.xml
-Source\ThirdParty\HWCPipe\HWCPipe_UPL.xml
-Source\ThirdParty\heapprofd\heapprofd_UPL.xml

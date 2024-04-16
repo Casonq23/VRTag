@@ -21,7 +21,7 @@
     <meta-data android:name="com.epicgames.unreal.GameActivity.ProjectName" android:value="miniGolfVR" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.AppType" android:value="" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bHasOBBFiles" android:value="true" />
-    <meta-data android:name="com.epicgames.unreal.GameActivity.BuildConfiguration" android:value="Development" />
+    <meta-data android:name="com.epicgames.unreal.GameActivity.BuildConfiguration" android:value="Shipping" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.CookedFlavors" android:value="ASTC" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bValidateTextureFormats" android:value="true" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bUseExternalFilesDir" android:value="true" />
@@ -62,13 +62,6 @@
       </intent-filter>
     </receiver>
     <meta-data android:name="android.max_aspect" android:value="2.10" />
-    <service android:name="com.epicgames.unreal.RemoteFileManagerService" android:foregroundServiceType="dataSync" android:exported="true" __line="71" />
-    <activity android:name="com.epicgames.unreal.RemoteFileManagerActivity" android:exported="true" android:screenOrientation="sensor" android:theme="@android:style/Theme.NoDisplay" __line="72">
-      <intent-filter __line="73">
-        <action android:name="com.epicgames.unreal.RemoteFileManager.intent.COMMAND2" __line="74" />
-      </intent-filter>
-    </activity>
-    <meta-data android:name="com.epicgames.unreal.RemoteFileManager.bAllowNetworkConnection" android:value="true" __line="85" />
   </application>
   <!-- Requirements -->
   <uses-feature android:glEsVersion="0x00030000" android:required="true" />
@@ -81,9 +74,6 @@
   <uses-permission android:name="com.android.vending.BILLING" />
   <!-- Supported texture compression formats (cooked) -->
   <supports-gl-texture android:name="GL_KHR_texture_compression_astc_ldr" />
-  <uses-permission android:name="android.permission.FOREGROUND_SERVICE" __line="66" />
-  <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC" __line="67" />
-  <uses-permission android:name="android.permission.POST_NOTIFICATIONS" __line="68" />
   <uses-feature android:name="android.hardware.vr.headtracking" android:version="1" android:required="true" __line="29" />
   <uses-feature android:name="android.hardware.usb.host" __line="60" />
 </manifest>
