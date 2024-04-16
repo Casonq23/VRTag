@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\bamro\\Documents\\School_Stuff\\VR class\\vrClassGithubFolder\\VRTag\\miniGolfVR\\Intermediate\\Source\\miniGolfVR.Build.cs",
+		"C:\\Users\\bamro\\Documents\\School_Stuff\\VR class\\vrClassGithubFolder\\VRTag\\miniGolfVR\\Intermediate\\Source\\miniGolfVR.Target.cs",
+		"C:\\Users\\bamro\\Documents\\School_Stuff\\VR class\\vrClassGithubFolder\\VRTag\\miniGolfVR\\Intermediate\\Source\\miniGolfVRClient.Target.cs",
+		"C:\\Users\\bamro\\Documents\\School_Stuff\\VR class\\vrClassGithubFolder\\VRTag\\miniGolfVR\\Intermediate\\Source\\miniGolfVREditor.Target.cs",
+		"C:\\Users\\bamro\\Documents\\School_Stuff\\VR class\\vrClassGithubFolder\\VRTag\\miniGolfVR\\Intermediate\\Source\\miniGolfVRServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
